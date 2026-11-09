@@ -2,8 +2,8 @@
   "asset": "USDT",
   "fiat": "EGP",
   "side": "BUY",
-  "egpPerUsdt": 54.5,
-  "quotedAt": "2026-11-09T15:00:12.413Z",
+  "egpPerUsdt": 54.49,
+  "quotedAt": "2026-11-09T15:05:09.744Z",
   "source": "Binance P2P BUY USDT/EGP",
   "sampleSize": null
 }
